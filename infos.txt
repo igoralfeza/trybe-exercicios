@@ -1,1 +1,4 @@
 Igor Souza
+passo a passo
+1 - Transformar diretório em git
+2 - Adicionart
