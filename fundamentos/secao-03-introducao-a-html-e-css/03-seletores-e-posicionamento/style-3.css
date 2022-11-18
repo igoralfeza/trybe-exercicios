@@ -1,0 +1,18 @@
+h1, p {
+    text-align: center;
+
+}
+
+li:hover {
+    background-color: blue;
+    color: aliceblue;
+}
+
+li:active {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+li {
+    list-style: none
+}
