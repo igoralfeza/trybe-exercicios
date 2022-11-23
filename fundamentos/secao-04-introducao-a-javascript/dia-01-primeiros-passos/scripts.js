@@ -127,3 +127,19 @@ if ((numberA % 2 === 0 || numberB % 2 === 0 || numberC % 2 === 0)) {
   isEven = true;
 };
 console.log(isEven);
+
+//Exercício 09//
+
+
+
+const numberD = 1;
+const numberE = 3;
+const numberF = 5;
+
+let isOdd = false;
+
+if ((numberD % 2 !== 0 || numberE % 2 !== 0 || numberF % 2 !== 0)) {
+  isOdd = true;
+};
+console.log(isOdd);
+
