@@ -117,3 +117,13 @@ if (nota < 0 || nota > 100 ) {
 
 //Exercício 08//
 
+const numberA = 5;
+const numberB = 2;
+const numberC = 4;
+
+let isEven = false;
+
+if ((numberA % 2 === 0 || numberB % 2 === 0 || numberC % 2 === 0)) {
+  isEven = true;
+};
+console.log(isEven);
