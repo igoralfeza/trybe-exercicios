@@ -138,8 +138,26 @@ const numberF = 5;
 
 let isOdd = false;
 
-if ((numberD % 2 !== 0 || numberE % 2 !== 0 || numberF % 2 !== 0)) {
+if ((numberD % 2 !== 0 || numberE % 2 !== 0 || c % 2 !== 0)) {
   isOdd = true;
 };
 console.log(isOdd);
+
+
+//Exercício 10//
+
+const cost = 3.5;
+const sale = 12;
+
+const profit = 20 / 100 * sale;
+const costTotal = cost + profit;
+
+if (cost >= 0 && sale >= 0) {
+    console.log((sale - costTotal) *1000);
+} else {
+    console.log("Erro nos valores");
+}
+
+
+
 
