@@ -33,3 +33,20 @@ if (marcelaNote > mariaNote && marcelaNote > joseNote) {
 } else if (joseNote > marcelaNote && joseNote > marianaNote) { 
     console.log(joseNote);
 }
+
+//Exercício 04//
+
+
+const value = -15;
+
+if (value > 0) {
+    console.log("positive");
+} else if (value < 0) {
+    console.log("negative");
+} else {
+    console.log("zero");
+}
+
+
+//Exercício 05//
+
