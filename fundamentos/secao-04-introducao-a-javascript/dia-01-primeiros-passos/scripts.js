@@ -50,3 +50,23 @@ if (value > 0) {
 
 //Exercício 05//
 
+const angleA = 100;
+const angleB = 40;
+const angleC = 40;
+
+let somaangles = angleA + angleB + angleC;
+let positAngles = angleA > 0 && angleB > 0 && angleC > 0;
+
+if (positAngles){
+    if (somaangles === 180) {
+        console.log(true);
+    } else {
+        console.log(false);
+    };
+} else {
+    console.log("erro");
+}
+
+
+
+
