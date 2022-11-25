@@ -27,13 +27,13 @@ for (let index = 0; index < cars.length; index ++) {
   console.log(cars[index]);
 } */
 
-
+/* 
 let groceryList = ['Arroz', 'Feijão', 'Alface', 'Melancia'];
 
 
 for (let index = 0;index < groceryList.length; index ++) {
     console.log(groceryList[index])
-}
+} */
 
 
 
